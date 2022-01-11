@@ -98,7 +98,7 @@ author:
   name             : "Xogus Cho"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "하루에 하나씩 정확히!!"
-  email            : #
+  email            : "xogus998@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
